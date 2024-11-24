@@ -1,31 +1,31 @@
 ﻿Name;Age;Sex;BMI;Children;Smoker;Regio;Charges
-Adam;22;male;35.6;0;yes;southwest;35585.576
-Brian;63;female;36.3;0;no;southeast;13887.204
-Chloe;46;male;19.855;0;no;northwest;7526.70645
-David;18;female;36.85;0;no;southeast;1629.8335
-Emma;18;male;33.77;1;no;southeast;1725.5523
-Ethan;54;female;31.9;3;no;southeast;27322.73386
-Grace;21;male;22.3;1;no;southwest;2103.08
-Jack;50;male;26.41;0;no;northwest;8827.2099
-John;40;male;32.3;2;no;northwest;6986.697
-Lily;20;male;30.115;5;no;northeast;4915.05985
-Luke;60;male;31.35;3;yes;northwest;46130.5265
-Mark;20;male;35.625;3;yes;northwest;37465.34375
-Max;46;male;39.425;1;no;northeast;8342.90875
-Mia;64;female;35.97;0;no;southeast;14313.8463
-Nora;37;female;26.4;0;yes;southeast;19539.243
-Paul;47;female;33.915;3;no;northwest;10115.00885
-Ryan;32;female;29.59;1;no;southeast;4562.8421
-Sam;60;male;28.595;0;no;northeast;30259.99556
-Sara;61;female;25.08;0;no;southeast;24513.09126
-Sean;34;female;26.73;1;no;southeast;5002.7827
-Tess;59;female;26.505;0;no;northeast;12815.44495
-Tom;28;female;25.935;1;no;northwest;4133.64165
-Zoe;46;male;26.62;1;no;southeast;7742.1098
-Anna;49;male;29.83;1;no;northeast;9288.0267
-Ben;23;female;28;0;no;southwest;13126.67745
-Eric;36;female;30.02;0;no;northwest;5272.1758
-Gina;21;female;25.8;0;no;southwest;2007.945
-Kate;26;male;30.875;2;no;northwest;3877.30425
-Leo;40;male;29.355;1;no;northwest;6393.60345
-Will;34;male;21.375;0;no;northeast;4500.33925
+Adam;22;Laki-Laki atau Pria;35.6;0;yes;southwest;35585.576
+Brian;63;Perempuan atau Wanita;36.3;0;no;southeast;13887.204
+Chloe;46;Laki-Laki atau Pria;19.855;0;no;northwest;7526.70645
+David;18;Perempuan atau Wanita;36.85;0;no;southeast;1629.8335
+Emma;18;Laki-Laki atau Pria;33.77;1;no;southeast;1725.5523
+Ethan;54;Perempuan atau Wanita;31.9;3;no;southeast;27322.73386
+Grace;21;Laki-Laki atau Pria;22.3;1;no;southwest;2103.08
+Jack;50;Laki-Laki atau Pria;26.41;0;no;northwest;8827.2099
+John;40;Laki-Laki atau Pria;32.3;2;no;northwest;6986.697
+Lily;20;Laki-Laki atau Pria;30.115;5;no;northeast;4915.05985
+Luke;60;Laki-Laki atau Pria;31.35;3;yes;northwest;46130.5265
+Mark;20;Laki-Laki atau Pria;35.625;3;yes;northwest;37465.34375
+Max;46;Laki-Laki atau Pria;39.425;1;no;northeast;8342.90875
+Mia;64;Perempuan atau Wanita;35.97;0;no;southeast;14313.8463
+Nora;37;Perempuan atau Wanita;26.4;0;yes;southeast;19539.243
+Paul;47;Perempuan atau Wanita;33.915;3;no;northwest;10115.00885
+Ryan;32;Perempuan atau Wanita;29.59;1;no;southeast;4562.8421
+Sam;60;Laki-Laki atau Pria;28.595;0;no;northeast;30259.99556
+Sara;61;Perempuan atau Wanita;25.08;0;no;southeast;24513.09126
+Sean;34;Perempuan atau Wanita;26.73;1;no;southeast;5002.7827
+Tess;59;Perempuan atau Wanita;26.505;0;no;northeast;12815.44495
+Tom;28;Perempuan atau Wanita;25.935;1;no;northwest;4133.64165
+Zoe;46;Laki-Laki atau Pria;26.62;1;no;southeast;7742.1098
+Anna;49;Laki-Laki atau Pria;29.83;1;no;northeast;9288.0267
+Ben;23;Perempuan atau Wanita;28;0;no;southwest;13126.67745
+Eric;36;Perempuan atau Wanita;30.02;0;no;northwest;5272.1758
+Gina;21;Perempuan atau Wanita;25.8;0;no;southwest;2007.945
+Kate;26;Laki-Laki atau Pria;30.875;2;no;northwest;3877.30425
+Leo;40;Laki-Laki atau Pria;29.355;1;no;northwest;6393.60345
+Will;34;Laki-Laki atau Pria;21.375;0;no;northeast;4500.33925
